@@ -1,3 +1,5 @@
+![DNS Changer Hero Image](./assets/photo1.png)
+
 DNS Changer 🚀
 ==============
 
@@ -61,6 +63,7 @@ This app is simple and easy to use—just one click to change your DNS server. I
     
 
 * * *
+![DNS Changer Image](./assets/photo2.png)
 
 🚀 Usage
 --------
