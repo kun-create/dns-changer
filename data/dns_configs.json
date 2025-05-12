@@ -1,0 +1,22 @@
+{
+    "Google": {
+        "config": "[Resolve]\nDNS=8.8.8.8 8.8.4.4\nDNSOverTLS=yes\n",
+        "ip": "8.8.8.8",
+        "custom": false
+    },
+    "Cloudflare": {
+        "config": "[Resolve]\nDNS=1.1.1.1 1.0.0.1\nDNSOverTLS=yes\n",
+        "ip": "1.1.1.1",
+        "custom": false
+    },
+    "Quad9": {
+        "config": "[Resolve]\nDNS=9.9.9.9 149.112.112.112\nDNSOverTLS=yes\n",
+        "ip": "9.9.9.9",
+        "custom": false
+    },
+    "AdGuard": {
+        "config": "[Resolve]\nDNS=94.140.14.14 94.140.15.15\nDNSOverTLS=yes\n",
+        "ip": "94.140.14.14",
+        "custom": false
+    }
+}
