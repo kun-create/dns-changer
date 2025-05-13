@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/github/downloads/kun-create/dns-changer/total.svg" alt="Total downloads">
   <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square" alt="Code style: Prettier">
   <img src="https://img.shields.io/badge/antivirus-PASS-brightgreen" alt="Antivirus scan pass">
+  <a href="https://github.com/sponsors/kun-create" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/github/sponsors/kun-create?style=social&logo=GitHub-Sponsors" 
+       alt="Sponsor kun-create">
+</a>
 </p>
 
 # DNS Changer 🚀
