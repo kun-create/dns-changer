@@ -23,7 +23,7 @@ A lightweight desktop application to quickly switch between DNS servers (NextDNS
 - [❓ Why use dns changer](#-why-use-dns-changer)
 - [💾 Installation](#-installation)
 - [🚀 Usage](#-usage)
-- [🛡️ privacy](#-privacy)
+- [🛡️ Privacy](#-privacy)
 - [🦠 Antivirus Result](#-antivirus-result)
 - [📦 Releases](#-releases)
 
