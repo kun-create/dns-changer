@@ -1,5 +1,5 @@
 distro==1.9.0
-lxml==5.4.0
+lxml==6.1.0
 Nuitka==2.7
 ordered-set==4.1.0
 packaging==25.0
